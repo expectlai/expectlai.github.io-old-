@@ -1,40 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/08/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>
-
-        <h2 id="Quick-Start"   >
-          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>
-      <p>$ a^2+b^2+c^2+d^2&#x3D;e^3 $</p>
-
-        <h3 id="Create-a-new-post"   >
-          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>
-      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure>
-
-<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
-
-        <h3 id="Run-server"   >
-          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>
-      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure>
-
-<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
-
-        <h3 id="Generate-static-files"   >
-          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>
-      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure>
-
-<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
-
-        <h3 id="Deploy-to-remote-sites"   >
-          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>
-      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure>
-
-<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
-]]></content>
-  </entry>
-  <entry>
     <title>YTP2022 &amp; 雜談</title>
     <url>/2022/08/02/YTP2022-%E9%9B%9C%E8%AB%87-1/</url>
     <content><![CDATA[
@@ -72,7 +38,7 @@
         <h4 id="爛事"   >
           <a href="#爛事" class="heading-link"><i class="fas fa-link"></i></a><a href="#爛事" class="headerlink" title="爛事"></a>爛事</h4>
       <ul>
-<li>牛頓法那一題我們晚了很久才看到anouncement中題敘的更正。硬是在終止條件卡很久 ( 沒看到終止條件變為 f(x_i) ≤ 0.0001)，注意到的時候都快哭了。</li>
+<li>牛頓法那一題我們晚了很久才看到anouncement中題敘的更正。硬是在終止條件卡很久 ( 沒看到終止條件變為$f(x_i)≤0.0001$)，注意到的時候都快哭了，心態崩掉也導致後面糟糕的狀況。</li>
 <li>無止盡的typo地獄。</li>
 <li>第13題據一些人說都蠻水的，應該跟初選隨機序列那題很像，是用尤拉迴路的想法去構造，應該不難，但我們沒去看，有一題DFS我們也燒掉了。</li>
 </ul>
@@ -92,15 +58,50 @@
 
         <h3 id="關於升學"   >
           <a href="#關於升學" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於升學" class="headerlink" title="關於升學"></a>關於升學</h3>
-      <p>最近我哥放榜，雖然沒考到他自己的預期，但理論上還是會上清大資工或交大電機，看他想志願序想了頗久，我才發覺其實我蠻少思考自己要怎麼升學，而且其實113學測說遠也不遠。</p>
-<p>老實說高一剛開學時我確實有想過一些酷酷的管道入學，如: 特殊選材等，但現實總是骨感的，我沒這個能耐把全部的心力投注在資訊或數學，而且自己學科也是被很多人揍爛，還是以先讀好書弄好專題為主吧，學測&#x2F;指考適合我太多。</p>
+      <p>最近我哥放榜，雖然沒考到他自己預期中的學校 (台大電機)，但理論上還是會上清大資工或交大電機，看他想志願序想了頗久，我才發覺其實我蠻少思考自己要怎麼升學，而且其實113學測說遠也不遠。</p>
+<p>老實說高一剛開學時我確實有想過一些酷酷的管道入學，如: 特殊選材等，但現實總是骨感的，我沒這個能耐把全部的心力投注在資訊或數學競賽，而且自己學科也是被很多人揍爛，還是以先讀好書弄好專題為主吧，學測&#x2F;指考適合我太多。</p>
 <p>我不會放棄弄課外的事，只是把打程式從目標轉移到興趣之類的，而且想著自己要達成什麼樣的Flag，其中壓力以及對挫折的畏懼，確實會讓拉低自己的表現，雖然似乎自己本來就不是很厲害。</p>
 <p>普世的價值觀中，通常認為人應該要為自己的不平凡活著。但在數資班被揍爛了一年，似乎有了比較特別的想法 (? ，去年會考後，我用匿名在某個FB社團發了一篇文，寫著: 沒有太多天賦的我，活著可能如負嵎頑抗般掙扎。一年後我想把這句很幼稚的話補完: 學習很多事情，都讓我知道自己的平凡，正是因為平凡，才更要努力為自己活著。</p>
 
-        <h3 id="關於心態"   >
-          <a href="#關於心態" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於心態" class="headerlink" title="關於心態"></a>關於心態</h3>
-      <p>如果把原本應該用熱情驅使去做的事，視為任務，設定自己一定要完成到什麼程度，或是弄到什麼程度即可收工，感覺蠻痛苦的。</p>
+        <h3 id="關於心態-應該是蠻久以前打的"   >
+          <a href="#關於心態-應該是蠻久以前打的" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於心態-應該是蠻久以前打的" class="headerlink" title="關於心態 (應該是蠻久以前打的)"></a>關於心態 (應該是蠻久以前打的)</h3>
+      <p>如果把原本應該用熱情驅使去做的事，視為任務，設定自己一定要完成到什麼程度，或是弄到什麼程度即可收工，感覺蠻痛苦的。最近一堆鳥事，感覺工作效率越來越低，可能焦躁、懶惰都是箇中原因，而且眼中的世界彷彿正在崩壞，希望早點能夠好起來，一切總會往好的面向邁進，對吧?</p>
 <p>也不知道自己為什麼會蹦出這個想法，很多事情自己常常不自覺地逃避，讓我理解到熱情會有消磨殆盡的一天，也想到國中班導的話: 去到臺北要多體驗，開闊自己的眼界。期許自己能在增廣視野的同時，學會維持熱情，學會認真生活。</p>
+<p>文章就先打到這裡吧，心血來潮想記錄自己當下的狀態。我也不知道自己未來會不會成功，甚至連成功的定義我都不確定，只希望之後可以與現在相比更加成熟。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/08/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>
+
+        <h2 id="Quick-Start"   >
+          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>
+      <p>$ a^2+b^2+c^2+d^2&#x3D;e^3 $</p>
+
+        <h3 id="Create-a-new-post"   >
+          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>
+      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
+
+        <h3 id="Run-server"   >
+          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>
+      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
+
+        <h3 id="Generate-static-files"   >
+          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>
+      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
+
+        <h3 id="Deploy-to-remote-sites"   >
+          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>
+      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
 ]]></content>
   </entry>
 </search>
