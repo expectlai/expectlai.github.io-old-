@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2022/08/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>
+
+        <h2 id="Quick-Start"   >
+          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>
+      <p>$ a^2+b^2+c^2+d^2&#x3D;e^3 $</p>
+
+        <h3 id="Create-a-new-post"   >
+          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>
+      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
+
+        <h3 id="Run-server"   >
+          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>
+      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
+
+        <h3 id="Generate-static-files"   >
+          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>
+      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
+
+        <h3 id="Deploy-to-remote-sites"   >
+          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>
+      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure>
+
+<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
+]]></content>
+  </entry>
+  <entry>
     <title>YTP2022 &amp; 雜談</title>
     <url>/2022/08/02/YTP2022-%E9%9B%9C%E8%AB%87-1/</url>
     <content><![CDATA[
@@ -43,18 +77,18 @@
 <li>第13題據一些人說都蠻水的，應該跟初選隨機序列那題很像，是用尤拉迴路的想法去構造，應該不難，但我們沒去看，有一題DFS我們也燒掉了。</li>
 </ul>
 
-        <h4 id="總結"   >
-          <a href="#總結" class="heading-link"><i class="fas fa-link"></i></a><a href="#總結" class="headerlink" title="總結"></a>總結</h4>
+        <h3 id="總結"   >
+          <a href="#總結" class="heading-link"><i class="fas fa-link"></i></a><a href="#總結" class="headerlink" title="總結"></a>總結</h3>
       <p>雖然真-燒雞，而且上面的爛事全都是我們在表演雜耍，但第一次跟朋友參加這種競賽，還是蠻有趣的 (?希望明年能進步，就這樣吧。或許我暫時很難超越班上的電神們，但就在自己的步調上慢慢前進吧，不要後退跟停滯，僅此而已，不要再當隊長兼拖油瓶。</p>
 
         <h2 id="雜談"   >
           <a href="#雜談" class="heading-link"><i class="fas fa-link"></i></a><a href="#雜談" class="headerlink" title="雜談"></a>雜談</h2>
-      <p>一些很久之前就想用文字寫出來的廢文，文筆很差 ，但大概都是出自真心，以下都是在搭2088時打的，是相當不正式的一篇文呢 X)</p>
+      <p>一些很久之前就想用文字寫出來的廢文，文筆很差 ，但大概都是出自真心，以下都是在搭2088&amp;捷運時打的，是相當不正式的一篇文呢 X) 本來打算寫在IG或FB，但文字版面有點太不友善，不如亂架一個BLOG來讓我專發廢文。</p>
 
         <h3 id="關於社群"   >
           <a href="#關於社群" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於社群" class="headerlink" title="關於社群"></a>關於社群</h3>
       <p>雖然說跟人能有說有笑地互動，可是總覺得自己能在社群中生存是蠻神奇的事，甚至懷疑我可能是各種社交恐懼症的集合體。我想可能面對人的壓力可能還要花時間消除，也應該學學如何卸下自己武裝的心。</p>
-<p>之所以會覺得於人群中喘不過氣，多半是因為太在意別人想法，或</p>
+<p>之所以會覺得於人群中喘不過氣，多半是因為太在意別人想法，或擔心講話太直傷害到別人，這種不健康的想法也不是說調適就調適，要完全改掉還需要蠻久，再給我一段時間吧。</p>
 
         <h3 id="關於升學"   >
           <a href="#關於升學" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於升學" class="headerlink" title="關於升學"></a>關於升學</h3>
@@ -67,40 +101,6 @@
           <a href="#關於心態" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於心態" class="headerlink" title="關於心態"></a>關於心態</h3>
       <p>如果把原本應該用熱情驅使去做的事，視為任務，設定自己一定要完成到什麼程度，或是弄到什麼程度即可收工，感覺蠻痛苦的。</p>
 <p>也不知道自己為什麼會蹦出這個想法，很多事情自己常常不自覺地逃避，讓我理解到熱情會有消磨殆盡的一天，也想到國中班導的話: 去到臺北要多體驗，開闊自己的眼界。期許自己能在增廣視野的同時，學會維持熱情，學會認真生活。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2022/08/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>
-
-        <h2 id="Quick-Start"   >
-          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>
-      <p>$ a^2+b^2+c^2+d^2&#x3D;e^3 $</p>
-
-        <h3 id="Create-a-new-post"   >
-          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>
-      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure>
-
-<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
-
-        <h3 id="Run-server"   >
-          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>
-      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure>
-
-<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
-
-        <h3 id="Generate-static-files"   >
-          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>
-      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure>
-
-<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
-
-        <h3 id="Deploy-to-remote-sites"   >
-          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>
-      <figure class="highlight bash"><div class="table-container"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure>
-
-<p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>
 ]]></content>
   </entry>
 </search>
