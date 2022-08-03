@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>YTP2022 &amp; 雜談</title>
+    <url>/2022/08/02/YTP2022-%E9%9B%9C%E8%AB%87-1/</url>
+    <content><![CDATA[
+        <h2 id="YTP2022簡記"   >
+          <a href="#YTP2022簡記" class="heading-link"><i class="fas fa-link"></i></a><a href="#YTP2022簡記" class="headerlink" title="YTP2022簡記"></a>YTP2022簡記</h2>
+      
+        <h3 id="開場"   >
+          <a href="#開場" class="heading-link"><i class="fas fa-link"></i></a><a href="#開場" class="headerlink" title="開場"></a>開場</h3>
+      <p>反正雨超大，我和組員到處繞來繞去，還是找不太到可以安靜坐下來的地方，最後決定直接到張榮發基金會，雖然有傘，但背包跟鞋子快要全濕了。</p>
+
+        <h3 id="用餐"   >
+          <a href="#用餐" class="heading-link"><i class="fas fa-link"></i></a><a href="#用餐" class="headerlink" title="用餐"></a>用餐</h3>
+      <p>不愧是YTP餐廳，好像因為主辦方的CMS或網路出現問題，比賽延後快1小時才開始，所以主辦方先讓大家用餐，椒麻雞跟可樂蠻好吃的。</p>
+
+        <h3 id="賽前"   >
+          <a href="#賽前" class="heading-link"><i class="fas fa-link"></i></a><a href="#賽前" class="headerlink" title="賽前"></a>賽前</h3>
+      <p>耍廢，然後複習一些蠻智障的DP跟圖論的經典題，跟班上其他電神說嗨。</p>
+
+        <h3 id="賽中"   >
+          <a href="#賽中" class="heading-link"><i class="fas fa-link"></i></a><a href="#賽中" class="headerlink" title="賽中"></a>賽中</h3>
+      <p>我不大想講太多，只能用一蹋糊塗形容 (沒有裝)，就先不在這提分數了 QwQ。但也沒什麼好找藉口的，就是實力差，然後也缺乏練習。就大概把值得紀錄的敘述一下吧。</p>
+
+        <h4 id="趣事"   >
+          <a href="#趣事" class="heading-link"><i class="fas fa-link"></i></a><a href="#趣事" class="headerlink" title="趣事"></a>趣事</h4>
+      <ul>
+<li>@ckjc18_kb堅持用devc++，我想用vscode，在我的筆電沒電後，他的毅力勝利了。<blockquote>
+<p>@ckjc18_kb: 你看，用devc++就AC了!</p>
+</blockquote>
+</li>
+<li>我WA或是想法燒雞就稍微捶一下桌子，偏吵。</li>
+<li>@LoliTerrorist: 我要用Python去寫一個TLE解 ( ???</li>
+<li>首次看到一些網路上看過的名人 (包括建中資讀的學長)。</li>
+</ul>
+
+        <h4 id="爛事"   >
+          <a href="#爛事" class="heading-link"><i class="fas fa-link"></i></a><a href="#爛事" class="headerlink" title="爛事"></a>爛事</h4>
+      <ul>
+<li>牛頓法那一題我們晚了很久才看到anouncement中題敘的更正。硬是在終止條件卡很久 ( 沒看到終止條件變為 f(x_i) ≤ 0.0001)，注意到的時候都快哭了。</li>
+<li>無止盡的typo地獄。</li>
+<li>第13題據一些人說都蠻水的，應該跟初選隨機序列那題很像，是用尤拉迴路的想法去構造，應該不難，但我們沒去看，有一題DFS我們也燒掉了。</li>
+</ul>
+
+        <h4 id="總結"   >
+          <a href="#總結" class="heading-link"><i class="fas fa-link"></i></a><a href="#總結" class="headerlink" title="總結"></a>總結</h4>
+      <p>雖然真-燒雞，而且上面的爛事全都是我們在表演雜耍，但第一次跟朋友參加這種競賽，還是蠻有趣的 (?希望明年能進步，就這樣吧。或許我暫時很難超越班上的電神們，但就在自己的步調上慢慢前進吧，不要後退跟停滯，僅此而已，不要再當隊長兼拖油瓶。</p>
+
+        <h2 id="雜談"   >
+          <a href="#雜談" class="heading-link"><i class="fas fa-link"></i></a><a href="#雜談" class="headerlink" title="雜談"></a>雜談</h2>
+      <p>一些很久之前就想用文字寫出來的廢文，文筆很差 ，但大概都是出自真心，以下都是在搭2088時打的，是相當不正式的一篇文呢 X)</p>
+
+        <h3 id="關於社群"   >
+          <a href="#關於社群" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於社群" class="headerlink" title="關於社群"></a>關於社群</h3>
+      <p>雖然說跟人能有說有笑地互動，可是總覺得自己能在社群中生存是蠻神奇的事，甚至懷疑我可能是各種社交恐懼症的集合體。我想可能面對人的壓力可能還要花時間消除，也應該學學如何卸下自己武裝的心。</p>
+<p>之所以會覺得於人群中喘不過氣，多半是因為太在意別人想法，或</p>
+
+        <h3 id="關於升學"   >
+          <a href="#關於升學" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於升學" class="headerlink" title="關於升學"></a>關於升學</h3>
+      <p>最近我哥放榜，雖然沒考到他自己的預期，但理論上還是會上清大資工或交大電機，看他想志願序想了頗久，我才發覺其實我蠻少思考自己要怎麼升學，而且其實113學測說遠也不遠。</p>
+<p>老實說高一剛開學時我確實有想過一些酷酷的管道入學，如: 特殊選材等，但現實總是骨感的，我沒這個能耐把全部的心力投注在資訊或數學，而且自己學科也是被很多人揍爛，還是以先讀好書弄好專題為主吧，學測&#x2F;指考適合我太多。</p>
+<p>我不會放棄弄課外的事，只是把打程式從目標轉移到興趣之類的，而且想著自己要達成什麼樣的Flag，其中壓力以及對挫折的畏懼，確實會讓拉低自己的表現，雖然似乎自己本來就不是很厲害。</p>
+<p>普世的價值觀中，通常認為人應該要為自己的不平凡活著。但在數資班被揍爛了一年，似乎有了比較特別的想法 (? ，去年會考後，我用匿名在某個FB社團發了一篇文，寫著: 沒有太多天賦的我，活著可能如負嵎頑抗般掙扎。一年後我想把這句很幼稚的話補完: 學習很多事情，都讓我知道自己的平凡，正是因為平凡，才更要努力為自己活著。</p>
+
+        <h3 id="關於心態"   >
+          <a href="#關於心態" class="heading-link"><i class="fas fa-link"></i></a><a href="#關於心態" class="headerlink" title="關於心態"></a>關於心態</h3>
+      <p>如果把原本應該用熱情驅使去做的事，視為任務，設定自己一定要完成到什麼程度，或是弄到什麼程度即可收工，感覺蠻痛苦的。</p>
+<p>也不知道自己為什麼會蹦出這個想法，很多事情自己常常不自覺地逃避，讓我理解到熱情會有消磨殆盡的一天，也想到國中班導的話: 去到臺北要多體驗，開闊自己的眼界。期許自己能在增廣視野的同時，學會維持熱情，學會認真生活。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/08/01/hello-world/</url>
     <content><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>
